@@ -1,0 +1,18 @@
+c:\users\muriki kaaluva\documents\visual studio 2013\Projects\BioInfoTask\BioInfoTask\bin\Debug\BioInfoTask.exe.config
+c:\users\muriki kaaluva\documents\visual studio 2013\Projects\BioInfoTask\BioInfoTask\obj\Debug\BioInfoTask.csprojResolveAssemblyReference.cache
+c:\users\muriki kaaluva\documents\visual studio 2013\Projects\BioInfoTask\BioInfoTask\bin\Debug\BioInfoTask.exe
+c:\users\muriki kaaluva\documents\visual studio 2013\Projects\BioInfoTask\BioInfoTask\bin\Debug\BioInfoTask.pdb
+c:\users\muriki kaaluva\documents\visual studio 2013\Projects\BioInfoTask\BioInfoTask\obj\Debug\BioInfoTask.exe
+c:\users\muriki kaaluva\documents\visual studio 2013\Projects\BioInfoTask\BioInfoTask\obj\Debug\BioInfoTask.pdb
+C:\Users\muriki kaaluva\Desktop\backupnew\BioInfoTask\bin\Debug\BioInfoTask.exe.config
+C:\Users\muriki kaaluva\Desktop\backupnew\BioInfoTask\obj\Debug\BioInfoTask.exe
+C:\Users\muriki kaaluva\Desktop\backupnew\BioInfoTask\obj\Debug\BioInfoTask.pdb
+C:\Users\muriki kaaluva\Desktop\backupnew\BioInfoTask\bin\Debug\BioInfoTask.exe
+C:\Users\muriki kaaluva\Desktop\backupnew\BioInfoTask\bin\Debug\BioInfoTask.pdb
+C:\Users\muriki kaaluva\Desktop\backupnew\BioInfoTask\obj\Debug\BioInfoTask.csprojResolveAssemblyReference.cache
+C:\Users\muriki kaaluva\Desktop\bioinfo(task2)\backupnew\BioInfoTask\bin\Debug\BioInfoTask.exe.config
+C:\Users\muriki kaaluva\Desktop\bioinfo(task2)\backupnew\BioInfoTask\obj\Debug\BioInfoTask.exe
+C:\Users\muriki kaaluva\Desktop\bioinfo(task2)\backupnew\BioInfoTask\obj\Debug\BioInfoTask.pdb
+C:\Users\muriki kaaluva\Desktop\bioinfo(task2)\backupnew\BioInfoTask\obj\Debug\BioInfoTask.csprojResolveAssemblyReference.cache
+C:\Users\muriki kaaluva\Desktop\bioinfo(task2)\backupnew\BioInfoTask\bin\Debug\BioInfoTask.exe
+C:\Users\muriki kaaluva\Desktop\bioinfo(task2)\backupnew\BioInfoTask\bin\Debug\BioInfoTask.pdb
